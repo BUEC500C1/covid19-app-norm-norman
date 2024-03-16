@@ -1,5 +1,5 @@
 # COVID-19 Visualization App
-Author: Gennifer Norman
+Author: Norm Norman
 
 ## Summary
 
